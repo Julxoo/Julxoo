@@ -5,7 +5,9 @@
   
 </a>
 <br/><br/>
-[Portfolio](https://julestoussenel.com) · [LinkedIn](https://www.linkedin.com/in/julestoussenel/) · [Email](mailto:toussenelj@gmail.com)
+
+<a href="https://julestoussenel.com">Portfolio</a> · <a href="https://www.linkedin.com/in/julestoussenel/">LinkedIn</a> · <a href="mailto:toussenelj@gmail.com">Email</a>
+
 </div>
 
 ---
