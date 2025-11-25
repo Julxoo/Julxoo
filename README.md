@@ -3,11 +3,8 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=2000&color=FFA200&center=true&vCenter=true&repeat=true&width=450&height=40&lines=Jules+Toussenel;Full-Stack+Developer;Data+%26+AI+%40+Epitech" alt="Typing SVG" />
 </a>
-
 <br/><br/>
-
 [Portfolio](https://julestoussenel.com) · [LinkedIn](https://www.linkedin.com/in/julestoussenel/) · [Email](mailto:toussenelj@gmail.com)
-
 </div>
 
 ---
