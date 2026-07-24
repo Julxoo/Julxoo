@@ -1,41 +1,45 @@
-<div align="center">
+# JULES<br/>TOUSSENEL
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=2000&color=FFA200&center=true&vCenter=true&repeat=true&width=450&height=40&lines=Jules+Toussenel;Full-Stack+Developer;Data+%26+AI+%40+Epitech" alt="Typing SVG" />
-  
-</a>
-<br/><br/>
+### Software, Data & AI Engineer
 
-<a href="https://julestoussenel.com">Portfolio</a> · <a href="https://www.linkedin.com/in/julestoussenel/">LinkedIn</a> · <a href="mailto:toussenelj@gmail.com">Email</a>
+I design intelligent systems at the intersection of technology, data and business.
 
-</div>
+`AIX-EN-PROVENCE, FRANCE`
+
+[julestoussenel.com ↗](https://www.julestoussenel.com) · [LinkedIn ↗](https://www.linkedin.com/in/julestoussenel/) · [Email ↗](mailto:toussenelj@gmail.com)
+
+<br/>
+
+#### `01 / NOW`
+
+|  |  |
+| :-- | :-- |
+| `CURRENT` | **Data & Innovation Lead** · [ATC Immobilier](https://github.com/ATC-Support) · custom CRM for real estate with AI-powered automation |
+| `EDUCATION` | **MSc Data & Artificial Intelligence** · [Epitech](https://www.epitech.eu/ecole-informatique-marseille/) |
+
+<br/>
+
+#### `02 / FOCUS`
+
+Software Engineering · Data Systems · Artificial Intelligence · Algorithmic Optimization · Business Innovation
+
+<br/>
+
+#### `03 / RECOGNITION`
+
+|  |  |  |
+| :-- | :-- | :-- |
+| `2025` | **Coding Battle** · National Winner | 1st place among more than 1,000 participants |
+| `2026` | **Winter Is Coding** · National Winner | 1st place among nearly 850 students |
+
+Two national victories in algorithmic and combinatorial optimization competitions. [Epitech article ↗](https://www.epitech.eu/2025/11/21/un-etudiant-depitech-marseille-triomphe-au-hackathon-coding-battle-2025/)
+
+<br/>
+
+#### `04 / CONTACT`
+
+[Email](mailto:toussenelj@gmail.com) · [LinkedIn ↗](https://www.linkedin.com/in/julestoussenel/) · [Portfolio ↗](https://www.julestoussenel.com)
 
 ---
 
-Building at [@ATC-Support](https://github.com/ATC-Support) — custom CRM for real estate with AI-powered automation.
-
----
-
-#### Now
-
-- Full-Stack Developer at ATC Immobilier (Alternance)
-- Master Data & AI at [Epitech Marseille](https://www.epitech.eu/ecole-informatique-marseille/)
-- AI-assisted development · Claude Code, Codex, Gemini CLI
-
----
-
-#### Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Julxoo/Julxoo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Julxoo/Julxoo/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Julxoo/Julxoo/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<sub>Aix-en-Provence, France</sub>
+<sub>© 2026 Jules Toussenel</sub>
